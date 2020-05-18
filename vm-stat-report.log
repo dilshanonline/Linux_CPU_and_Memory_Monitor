@@ -1,0 +1,162 @@
+------------------------------
+Timestamp:  2020.05.14-00:44:06
+------------------------------
+-----VM CPU Load-----
+Load for Last 01 Minutes: 0.58,
+Load for Last 05 Minutes: 0.59
+------------------------------
+---------usf stat-------------
+./monitoring.sh: line 23: docker: command not found
+xargs: docker: No such file or directory
+------------------------------
+----VM Memory Usage----
+Total :  15
+Used  :  10
+Free  :  5
+Cache :  0
+------------------------------
+ 
+------------------------------
+Timestamp:  2020.05.14-00:44:22
+------------------------------
+-----VM CPU Load-----
+Load for Last 01 Minutes: 0.58,
+Load for Last 05 Minutes: 0.59
+------------------------------
+---------usf stat-------------
+./monitoring.sh: line 23: docker: command not found
+xargs: docker: No such file or directory
+------------------------------
+----VM Memory Usage----
+Total :  15
+Used  :  10
+Free  :  5
+Cache :  0
+------------------------------
+ 
+------------------------------
+Timestamp:  2020.05.14-00:45:02
+------------------------------
+-----VM CPU Load-----
+Load for Last 01 Minutes: 0.58,
+Load for Last 05 Minutes: 0.59
+------------------------------
+---------usf stat-------------
+./monitoring.sh: line 23: docker: command not found
+xargs: docker: No such file or directory
+------------------------------
+----VM Memory Usage----
+Total :  15
+Used  :  10
+Free  :  5
+Cache :  0
+------------------------------
+ 
+------------------------------
+Timestamp:  2020.05.14-00:45:18
+------------------------------
+-----VM CPU Load-----
+Load for Last 01 Minutes: 0.58,
+Load for Last 05 Minutes: 0.59
+------------------------------
+---------usf stat-------------
+./monitoring.sh: line 23: docker: command not found
+xargs: docker: No such file or directory
+------------------------------
+----VM Memory Usage----
+Total :  15
+Used  :  9
+Free  :  5
+Cache :  0
+------------------------------
+ 
+------------------------------
+Timestamp:  2020.05.14-00:45:29
+------------------------------
+-----VM CPU Load-----
+Load for Last 01 Minutes: 0.58,
+Load for Last 05 Minutes: 0.59
+------------------------------
+---------usf stat-------------
+./monitoring.sh: line 23: docker: command not found
+xargs: docker: No such file or directory
+------------------------------
+----VM Memory Usage----
+Total :  15
+Used  :  9
+Free  :  5
+Cache :  0
+------------------------------
+ 
+------------------------------
+Timestamp:  2020.05.14-00:45:34
+------------------------------
+-----VM CPU Load-----
+Load for Last 01 Minutes: 0.58,
+Load for Last 05 Minutes: 0.59
+------------------------------
+---------usf stat-------------
+./monitoring.sh: line 23: docker: command not found
+xargs: docker: No such file or directory
+------------------------------
+----VM Memory Usage----
+Total :  15
+Used  :  9
+Free  :  5
+Cache :  0
+------------------------------
+ 
+------------------------------
+Timestamp:  2020.05.14-00:45:44
+------------------------------
+-----VM CPU Load-----
+Load for Last 01 Minutes: 0.58,
+Load for Last 05 Minutes: 0.59
+------------------------------
+---------usf stat-------------
+./monitoring.sh: line 23: docker: command not found
+xargs: docker: No such file or directory
+------------------------------
+----VM Memory Usage----
+Total :  15
+Used  :  9
+Free  :  5
+Cache :  0
+------------------------------
+ 
+------------------------------
+Timestamp:  2020.05.14-00:47:34
+------------------------------
+-----VM CPU Load-----
+Load for Last 01 Minutes: 0.58,
+Load for Last 05 Minutes: 0.59
+------------------------------
+---------usf stat-------------
+./monitoring.sh: line 23: docker: command not found
+xargs: docker: No such file or directory
+------------------------------
+----VM Memory Usage----
+Total :  15
+Used  :  9
+Free  :  5
+Cache :  0
+------------------------------
+ 
+------------------------------
+Timestamp:  2020.05.14-00:48:59
+------------------------------
+-----VM CPU Load-----
+Load for Last 01 Minutes: 0.58,
+Load for Last 05 Minutes: 0.59
+------------------------------
+---------usf stat-------------
+./monitoring.sh: line 23: docker: command not found
+xargs: docker: No such file or directory
+------------------------------
+----VM Memory Usage----
+Total :  15
+Used  :  9
+Free  :  5
+Cache :  0
+------------------------------
+ 
